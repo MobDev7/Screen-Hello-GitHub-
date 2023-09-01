@@ -19,9 +19,9 @@ class MyApp extends StatelessWidget {
         body: Center(
           child: Text('Hello GitHub!',
               style: TextStyle(
-                fontSize: 100.0, // делаем текст большим
-                fontWeight: FontWeight.bold,  // жирным
-                color: Colors.black, // белым
+                fontSize: 100.0, 
+                fontWeight: FontWeight.bold,  
+                color: Colors.black, 
               )
           ),
         ),
